@@ -26,13 +26,20 @@ This repository contains the complete implementation and Git version-control wor
 
 | Exercise | Directory | Description | Source File | Status |
 |---|---|---|---|---|
-| **Exercise 01** | `exercise-01/` | Creation of Red-Black Tree & Sequential Key Insertion (`F, S, Q, K, C, L, H, T, V, W, M, R, N, P, A, B, X, Y, D, Z, E`) with Inorder Traversal | [`exercise-01/main.c`](exercise-01/main.c) | Verified [Branch: main] |
-| **Exercise 02** | `exercise-02/` | Search function returning existence and node color (`Red` or `Black`) for existing ('M') and absent ('J') keys | [`exercise-02/main.c`](exercise-02/main.c) | Verified [Branch: main] |
-| **Exercise 03** | `exercise-03/` | Rotation counter tracking total left and right rotations during full insertion sequence (10 rotations) | [`exercise-03/main.c`](exercise-03/main.c) | Verified [Branch: main] |
-| **Exercise 04** | `exercise-04/` | 2D visual sideways tree representation showing node keys and colors | [`exercise-04/main.c`](exercise-04/main.c) | Verified [Branch: main] |
-| **Exercise 05** | `exercise-05/` | Node deletion algorithm with `rbTransplant` and 4-case `deleteFixup` | [`exercise-05/main.c`](exercise-05/main.c) | Verified [Branch: main] |
-| **Exercise 06** | `exercise-06/` | Demonstration of 3 deletion cases: Leaf ('A'), One Child ('E'), Two Children ('F') with tree visualization | [`exercise-06/main.c`](exercise-06/main.c) | Verified [Branch: main] |
-| **Exercise 07** | `exercise-07/` | Binary tree property checker for AVL, Red-Black, and Min/Max Heap invariants | [`exercise-07/main.c`](exercise-07/main.c) | Verified [Branch: main] |
+| **Exercise 01** | `exercise-01/` | Creation of Red-Black Tree & Sequential Key Insertion (`F, S, Q, K, C, L, H, T, V, W, M, R, N, P, A, B, X, Y, D, Z, E`) with Inorder Traversal | [`exercise-01/main.c`](exercise-01/main.c) | Completed & Verified |
+| **Exercise 02** | `exercise-02/` | Search function returning existence and node color (`Red` or `Black`) for existing ('M') and absent ('J') keys | [`exercise-02/main.c`](exercise-02/main.c) | Completed & Verified |
+| **Exercise 03** | `exercise-03/` | Rotation counter tracking total left and right rotations during full insertion sequence (10 rotations) | [`exercise-03/main.c`](exercise-03/main.c) | Completed & Verified |
+| **Exercise 04** | `exercise-04/` | 2D visual sideways tree representation showing node keys and colors | [`exercise-04/main.c`](exercise-04/main.c) | Completed & Verified |
+| **Exercise 05** | `exercise-05/` | Node deletion algorithm with `rbTransplant` and 4-case `deleteFixup` | [`exercise-05/main.c`](exercise-05/main.c) | Completed & Verified |
+| **Exercise 06** | `exercise-06/` | Demonstration of 3 deletion cases: Leaf ('A'), One Child ('E'), Two Children ('F') with tree visualization | [`exercise-06/main.c`](exercise-06/main.c) | Completed & Verified |
+| **Exercise 07** | `exercise-07/` | Binary tree property checker for AVL, Red-Black, and Min/Max Heap invariants | [`exercise-07/main.c`](exercise-07/main.c) | Completed & Verified |
+| **Exercise 01** | `exercise-01/` | Creation of Red-Black Tree & Sequential Key Insertion (`F, S, Q, K, C, L, H, T, V, W, M, R, N, P, A, B, X, Y, D, Z, E`) with Inorder Traversal | [`exercise-01/main.c`](exercise-01/main.c) | Completed & Verified |
+| **Exercise 02** | `exercise-02/` | Search function returning existence and node color (`Red` or `Black`) for existing ('M') and absent ('J') keys | [`exercise-02/main.c`](exercise-02/main.c) | Completed & Verified |
+| **Exercise 03** | `exercise-03/` | Rotation counter tracking total left and right rotations during full insertion sequence (10 rotations) | [`exercise-03/main.c`](exercise-03/main.c) | Completed & Verified |
+| **Exercise 04** | `exercise-04/` | 2D visual sideways tree representation showing node keys and colors | [`exercise-04/main.c`](exercise-04/main.c) | Completed & Verified |
+| **Exercise 05** | `exercise-05/` | Node deletion algorithm with `rbTransplant` and 4-case `deleteFixup` | [`exercise-05/main.c`](exercise-05/main.c) | Completed & Verified |
+| **Exercise 06** | `exercise-06/` | Demonstration of 3 deletion cases: Leaf ('A'), One Child ('E'), Two Children ('F') with tree visualization | [`exercise-06/main.c`](exercise-06/main.c) | Completed & Verified |
+| **Exercise 07** | `exercise-07/` | Binary tree property checker for AVL, Red-Black, and Min/Max Heap invariants | [`exercise-07/main.c`](exercise-07/main.c) | Completed & Verified |
 
 ---
 
