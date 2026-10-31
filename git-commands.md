@@ -11,7 +11,7 @@ This document records the Git commands used throughout the development of the **
 - `git config user.name "Tejas Chandane"`: Sets the commit author name for the repository.
 - `git config user.email "tejas@example.com"`: Sets the commit author email for the repository.
 - `git config --list`: Displays all active Git configuration settings.
-- `git remote add origin https://github.com/tejaschandane-cyber/git-practice-BT25CSE194.git`: Links the local repository to the remote GitHub repository.
+- `git remote add origin https://github.com/tejaschandane66-bit/git-practice-BT25CSE194.git`: Links the local repository to the remote GitHub repository.
 - `git remote -v`: Verifies the configured remote URL for fetch and push operations.
 
 ### 1.2 Staging & Commits

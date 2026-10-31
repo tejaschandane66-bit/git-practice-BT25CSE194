@@ -6,7 +6,7 @@
 - **Section:** CSE C
 - **Course:** IT Workshop - I (CSP 201) / Data Structures and Algorithms Lab
 - **Institution:** Indian Institute of Information Technology, Nagpur (IIITN)
-- **Repository URL:** [https://github.com/tejaschandane-cyber/git-practice-BT25CSE194](https://github.com/tejaschandane-cyber/git-practice-BT25CSE194)
+- **Repository URL:** [https://github.com/tejaschandane66-bit/git-practice-BT25CSE194](https://github.com/tejaschandane66-bit/git-practice-BT25CSE194)
 
 ---
 
@@ -94,22 +94,22 @@ gcc -Wall exercise-07/main.c -o exercise-07/main
 ## Evidence of GitHub Activities
 
 ### Issues Created
-- [Issue #1: Implement Red-Black Tree creation and sequential key insertion](https://github.com/tejaschandane-cyber/git-practice-BT25CSE194/issues/1)
-- [Issue #2: Implement key search with node color display](https://github.com/tejaschandane-cyber/git-practice-BT25CSE194/issues/2)
-- [Issue #3: Track and count rotations performed during insertion fixup](https://github.com/tejaschandane-cyber/git-practice-BT25CSE194/issues/3)
-- [Issue #4: Implement 2D hierarchical visual representation for RB Tree](https://github.com/tejaschandane-cyber/git-practice-BT25CSE194/issues/4)
-- [Issue #5: Implement Red-Black Tree node deletion and balance restoration](https://github.com/tejaschandane-cyber/git-practice-BT25CSE194/issues/5)
-- [Issue #6: Demonstrate leaf, single-child, and two-children deletion cases](https://github.com/tejaschandane-cyber/git-practice-BT25CSE194/issues/6)
-- [Issue #7: Implement tree property checker for AVL, Red-Black, and Heap](https://github.com/tejaschandane-cyber/git-practice-BT25CSE194/issues/7)
+- [Issue #1: Implement Red-Black Tree creation and sequential key insertion](https://github.com/tejaschandane66-bit/git-practice-BT25CSE194/issues/1)
+- [Issue #2: Implement key search with node color display](https://github.com/tejaschandane66-bit/git-practice-BT25CSE194/issues/2)
+- [Issue #3: Track and count rotations performed during insertion fixup](https://github.com/tejaschandane66-bit/git-practice-BT25CSE194/issues/3)
+- [Issue #4: Implement 2D hierarchical visual representation for RB Tree](https://github.com/tejaschandane66-bit/git-practice-BT25CSE194/issues/4)
+- [Issue #5: Implement Red-Black Tree node deletion and balance restoration](https://github.com/tejaschandane66-bit/git-practice-BT25CSE194/issues/5)
+- [Issue #6: Demonstrate leaf, single-child, and two-children deletion cases](https://github.com/tejaschandane66-bit/git-practice-BT25CSE194/issues/6)
+- [Issue #7: Implement tree property checker for AVL, Red-Black, and Heap](https://github.com/tejaschandane66-bit/git-practice-BT25CSE194/issues/7)
 
 ### Pull Requests Created and Merged
-- [PR #1: Feature: Add Red-Black Tree creation and insertion module](https://github.com/tejaschandane-cyber/git-practice-BT25CSE194/pull/1) (Merged into `main`)
-- [PR #2: Feature: Add key search and color inspection](https://github.com/tejaschandane-cyber/git-practice-BT25CSE194/pull/2) (Merged into `main`)
-- [PR #3: Feature: Add rotation counter during insertion fixup](https://github.com/tejaschandane-cyber/git-practice-BT25CSE194/pull/3) (Merged into `main`)
-- [PR #4: Feature: Add 2D visual tree representation](https://github.com/tejaschandane-cyber/git-practice-BT25CSE194/pull/4) (Merged into `main`)
-- [PR #5: Feature: Add node deletion with transplant and deleteFixup](https://github.com/tejaschandane-cyber/git-practice-BT25CSE194/pull/5) (Merged into `main`)
-- [PR #6: Feature: Add demonstration suite for three deletion cases](https://github.com/tejaschandane-cyber/git-practice-BT25CSE194/pull/6) (Merged into `main`)
-- [PR #7: Feature: Add binary tree property verification for AVL, RB, and Heap](https://github.com/tejaschandane-cyber/git-practice-BT25CSE194/pull/7) (Merged into `main`)
+- [PR #1: Feature: Add Red-Black Tree creation and insertion module](https://github.com/tejaschandane66-bit/git-practice-BT25CSE194/pull/1) (Merged into `main`)
+- [PR #2: Feature: Add key search and color inspection](https://github.com/tejaschandane66-bit/git-practice-BT25CSE194/pull/2) (Merged into `main`)
+- [PR #3: Feature: Add rotation counter during insertion fixup](https://github.com/tejaschandane66-bit/git-practice-BT25CSE194/pull/3) (Merged into `main`)
+- [PR #4: Feature: Add 2D visual tree representation](https://github.com/tejaschandane66-bit/git-practice-BT25CSE194/pull/4) (Merged into `main`)
+- [PR #5: Feature: Add node deletion with transplant and deleteFixup](https://github.com/tejaschandane66-bit/git-practice-BT25CSE194/pull/5) (Merged into `main`)
+- [PR #6: Feature: Add demonstration suite for three deletion cases](https://github.com/tejaschandane66-bit/git-practice-BT25CSE194/pull/6) (Merged into `main`)
+- [PR #7: Feature: Add binary tree property verification for AVL, RB, and Heap](https://github.com/tejaschandane66-bit/git-practice-BT25CSE194/pull/7) (Merged into `main`)
 
 ### Git Practice Record
 For detailed documentation of all Git commands used, their explanation, and the full merge conflict resolution log, refer to [`git-commands.md`](git-commands.md).
