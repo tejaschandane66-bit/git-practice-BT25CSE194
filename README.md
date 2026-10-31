@@ -4,7 +4,7 @@
 - **Name:** Tejas Chandane
 - **Roll Number:** BT25CSE194
 - **Section:** CSE C
-- **Course:** IT Workshop - I (CSP 201) / Data Structures and Algorithms Lab
+- **Course:** IT Workshop - I 
 - **Institution:** Indian Institute of Information Technology, Nagpur (IIITN)
 - **Repository URL:** [https://github.com/tejaschandane66-bit/git-practice-BT25CSE194](https://github.com/tejaschandane66-bit/git-practice-BT25CSE194)
 
