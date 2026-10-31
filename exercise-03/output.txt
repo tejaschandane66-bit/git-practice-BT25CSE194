@@ -1,0 +1,1 @@
+Total rotations performed during insertion: 10

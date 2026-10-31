@@ -1,0 +1,5 @@
+Sequential insertion keys:
+F S Q K C L H T V W M R N P A B X Y D Z E
+
+Objective:
+Count every leftRotate and rightRotate executed during insertFixup to restore Red-Black properties.
