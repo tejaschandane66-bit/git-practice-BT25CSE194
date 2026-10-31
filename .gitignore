@@ -1,0 +1,16 @@
+# Binaries and executables
+*.exe
+*.o
+*.obj
+*.out
+
+# Logs and temporary files
+*.log
+*.tmp
+.env
+
+# Editor and IDE configurations
+.vscode/
+.idea/
+*.swp
+*.bak
