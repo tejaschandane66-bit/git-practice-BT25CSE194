@@ -1,0 +1,3 @@
+AVL Property: YES
+Red-Black Property: YES
+Heap Property: NO

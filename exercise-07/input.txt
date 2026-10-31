@@ -1,0 +1,9 @@
+Sample Binary Tree Input:
+        20(B)
+       /     \
+    10(R)   30(R)
+
+Properties Verified:
+1. AVL Property: Height balance <= 1 and BST ordering.
+2. Red-Black Tree Property: Root is Black, no consecutive Red nodes, equal Black height on all paths.
+3. Heap Property: Complete binary tree and parent-child order (Min-Heap or Max-Heap).
