@@ -1,0 +1,7 @@
+Keys inserted into the Red-Black Tree:
+F S Q K C L H T V W M R N P A B X Y D Z E
+
+Visualization Format:
+Inverted tree printed sideways with depth indentation (4 spaces per depth level)
+Format: Key(Color)
+Root: Q(Black)
